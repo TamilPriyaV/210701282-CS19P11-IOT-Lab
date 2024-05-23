@@ -46,4 +46,4 @@
 - [Video Tutorial - RFID Door Lock System](https://youtu.be/GOO84CGBPz8?feature=shared)
 
 ## Contributors
-[![Contributors](https://contrib.rocks/image?repo=Subhikshaa23/RFID-Door-Lock-System)](https://github.com/Subhikshaa23/RFID-Door-Lock-System/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=TamilPriyaV/210701282-CS19P11-IOT-Lab)](https://github.com/TamilPriyaV/210701282-CS19P11-IOT-Lab/graphs/contributors)
